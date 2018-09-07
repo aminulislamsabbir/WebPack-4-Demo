@@ -1,10 +1,14 @@
 # WebPack-4-Demo
-npm init -y
-npm i -D babel-cli babel-preset-env
-npm i -D webpack webpack-cli
-npm install -D babel-loader@7 babel-core babel-preset-env webpack
-npm i -D babel-polyfill webpack-dev-server
+please follow note.text
 
+
+and copy paste
+
+webpack.config.js, index.html,  package.json("scripts": {
+      "start": "webpack-dev-server",
+      "dev": "webpack --mode development",
+      "build": "webpack --mode production"
+    }, )
 
 
 

@@ -1,5 +1,5 @@
 # WebPack-4-Demo
-please note.text
+please follow note.text
 
 
 

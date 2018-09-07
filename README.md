@@ -4,7 +4,7 @@ please follow note.text
 
 and copy paste
 
-webpack.config.js, index.html, 
+webpack.config.js, index.html,  package.json(
 
 
 
